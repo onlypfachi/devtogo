@@ -8,11 +8,6 @@ node_modules/
 
 .vscode/
 
-# other unnecessary filesfor opnsource
-src/assets/
-src/content/config.ts
-# astro.config.mjs
-
 
 # logs
 npm-debug.log*
