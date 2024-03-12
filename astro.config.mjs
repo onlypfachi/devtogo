@@ -20,8 +20,8 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'What You Need To Know',
+					autogenerate: { directory: 'intro' },
 				},
 			],
 		}),
